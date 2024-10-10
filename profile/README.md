@@ -10,3 +10,8 @@
 ## 프로젝트 소개
 
 <img width="1056" alt="스크린샷 2024-10-10 오후 5 28 12" src="https://github.com/user-attachments/assets/e52ec30b-ab2e-4e35-b877-f6f1705bace3">
+
+## 프로젝트 아키텍처( 수정 중 )
+
+<img width="1058" alt="스크린샷 2024-10-10 오후 5 30 36" src="https://github.com/user-attachments/assets/4f5e3875-6851-4877-a243-dd23dbd2a8bb">
+
