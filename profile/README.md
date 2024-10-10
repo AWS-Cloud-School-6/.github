@@ -7,6 +7,6 @@
 |:-:|:-:|:-:|
 |Seungho Lee<br/>[@nareunhang](https://github.com/nareunhang)|Hyunseok Ku<br/>[@OZMOHYNSK](https://github.com/OZMOHYNSK)|Gaeul Seo<br/>[@Gaeul12345](https://github.com/Gaeul12345)|
 
-##
+## 프로젝트 소개
 
 <img width="1056" alt="스크린샷 2024-10-10 오후 5 28 12" src="https://github.com/user-attachments/assets/e52ec30b-ab2e-4e35-b877-f6f1705bace3">
